@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
 <h3 align="center">A passionate JavaScript & Web developer</h3>
 
+- 🔭 I’m currently working on [My development website](https://devz.be)
+
 - 🌱 I’m currently learning **HTML, CSS & PHP**
+
+- 🔭 I’m currently working on [My Discord bot](https://devz.be/elizabeth-bot)
 
 - 📫 How to reach me **contact@devz.be**
 
@@ -9,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/noahlegeekyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noahelegeekyt" height="30" width="40" /></a>
+<a href="https://twitter.com/noahlegeekyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noahlegeekyt" height="30" width="40" /></a>
 <a href="https://instagram.com/n.tim27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.tim27" height="30" width="40" /></a>
 <a href="https://discord.gg/9vfFZtp49g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9vfFZtp49g" height="30" width="40" /></a>
 </p>
