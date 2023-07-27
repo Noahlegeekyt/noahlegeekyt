@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [My development website](https://devz.be)
 
-- 🌱 I’m currently learning **HTML, CSS & PHP**
-
 - 🔭 I’m currently working on [My Discord bot](https://devz.be/elizabeth-bot)
+
+- 🌱 I’m currently learning **HTML, CSS & PHP**
 
 - 📫 How to reach me **contact@devz.be**
 
