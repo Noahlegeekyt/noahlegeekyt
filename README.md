@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My development website](https://devz.be)
 
-- 🔭 I’m currently working on [My Discord bot](https://devz.be/elizabeth-bot)
+- 🔭 I’m currently working on [My Discord bot](https://devz.be/project/elizabeth-bot)
 
 - 🌱 I’m currently learning **HTML, CSS & PHP**
 
