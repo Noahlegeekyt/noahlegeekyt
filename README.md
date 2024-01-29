@@ -7,7 +7,7 @@
 
 - 🏫 I’m currently learning at **IPES Ath**
 
-- 👨‍💻 All of my projects are available at [Cabanga](https://login.cabanga.be/)
+- 👨‍💻 All of my projects are available at []()
 
 - 💬 Ask me about **JavaScript, Java, Debian & MySQL**
 
